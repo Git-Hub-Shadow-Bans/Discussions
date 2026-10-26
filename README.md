@@ -1,2 +1,3 @@
-# Discussions
-Miscellaneous
+# ⚠️ PUBLIC SERVICE ANNOUNCEMENT ⚠️
+
+M$-GitHub is now shadow banning accounts that did not abuse the platform, as punishment for using the "wrong" e-mail service or proxy.  About half of American adults and ⅓ of the world internet population uses a shared proxy, so GitHub is no longer "where the world builds software".  All project managers should be advised that some of your most valuable contributors may have lost the ability to create or respond to issues & pull requests.  They might not even be aware of this — and when they finally realise what happened they will not be able to notify you if you did not provide an off-platform contact method in your GitHub profile.
